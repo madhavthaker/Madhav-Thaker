@@ -2,7 +2,37 @@
 
 This portfolio is a compilation of notebooks which I have built for various personal projects and experiments. I've split up all of the projects based on solution categories.
 
-### Natural Langauge Processing 
+
+## Natural Langauge Processing 
+
+### Supervised Learning
+
+**Automatic Essay Grading Tool**
+
+### Unsupervised Learning 
+
+**Comparing Various Extractive Text Summarization Techniques**
+
+**Presidential Inauguration Sentiment Comparison**
+
+## Computer Vision
+
+### Supervised Learning 
+
+**Emotion Detection**
+
+### Unsupervised Learning
+
+## Structured Data
+
+### Supervised Learning
+
+**How well would Messi do in a different league?**
+
+### Unsupervised Learning & EDA
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
