@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+# Data science portfolio by Madhav Thaker
 
-You can use the [editor on GitHub](https://github.com/madhavthaker/Madhav-Thaker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a compilation of notebooks which I have built for various personal projects and experiments. I've split up all of the projects based on solution categories.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Natural Langauge Processing 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
