@@ -10,14 +10,17 @@ Professional projects and accomplishments can be found on my [LinkedIn](https://
 ### Supervised Learning
 
 **Automatic Essay Grading Tool**
+
 [TBD]
 
 ### Unsupervised Learning 
 
 **Comparing Various Extractive Text Summarization Techniques**
+
 [TBD]
 
 **Presidential Inauguration Sentiment Comparison**
+
 [TBD]
 
 ## Computer Vision
@@ -25,6 +28,7 @@ Professional projects and accomplishments can be found on my [LinkedIn](https://
 ### Supervised Learning 
 
 **Emotion Detection**
+
 [TBD]
 
 ### Unsupervised Learning
@@ -34,11 +38,13 @@ Professional projects and accomplishments can be found on my [LinkedIn](https://
 ### Supervised Learning
 
 **How well would Messi do in a different league?**
+
 [TBD]
 
 ### Unsupervised Learning & EDA
 
 **Exploring NYC Taxi Trip Data**
+
 [TBD]
 
 
