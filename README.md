@@ -2,24 +2,30 @@
 
 This portfolio is a compilation of notebooks which I have built for various personal projects and experiments. I've split up all of the projects based on solution categories.
 
+Professional projects and accomplishments can be found on my [LinkedIn](https://www.linkedin.com/in/madhavthaker/).
+
 
 ## Natural Langauge Processing 
 
 ### Supervised Learning
 
 **Automatic Essay Grading Tool**
+[TBD]
 
 ### Unsupervised Learning 
 
 **Comparing Various Extractive Text Summarization Techniques**
+[TBD]
 
 **Presidential Inauguration Sentiment Comparison**
+[TBD]
 
 ## Computer Vision
 
 ### Supervised Learning 
 
 **Emotion Detection**
+[TBD]
 
 ### Unsupervised Learning
 
@@ -28,9 +34,12 @@ This portfolio is a compilation of notebooks which I have built for various pers
 ### Supervised Learning
 
 **How well would Messi do in a different league?**
+[TBD]
 
 ### Unsupervised Learning & EDA
 
+**Exploring NYC Taxi Trip Data**
+[TBD]
 
 
 
