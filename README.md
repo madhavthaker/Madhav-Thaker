@@ -31,7 +31,7 @@ Utilized NTLK and TextBlob packages to analyze the sentence by sentence sentimen
 
 **Emotion Detection**
 
-[TBD]
+Developed a Convolutional Neural Network to analyze the emotion (7 emotional states) in a specific greyscale static image. Utilized Tensorflow to construct the Neural Network and visualized its performance and architecture using Tensorboard. The code can be found [here](https://github.com/madhavthaker/EmotionDetection/blob/master/projectscript.py)
 
 ### Unsupervised Learning
 
