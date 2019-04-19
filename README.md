@@ -11,7 +11,7 @@ Professional projects and accomplishments can be found on my [LinkedIn](https://
 
 **Automatic Essay Grading Tool**
 
-[TBD]
+Developed an Automatic Essay Grading tool in Python that utilizes TensorFlow to build a Four-Layer feed-forward neural network. Additionally, by utilizing the Natural Language Tool Kit (NLTK) package, I built a regression model that incorporates features such as grammar and sentiment to grade test essay sets. A Spearman's Correlation of approximately 0.90 was achieved. The code can be found [here](https://github.com/madhavthaker/AES)
 
 ### Unsupervised Learning 
 
@@ -21,7 +21,9 @@ Professional projects and accomplishments can be found on my [LinkedIn](https://
 
 **Presidential Inauguration Sentiment Comparison**
 
-[TBD]
+Utilized NTLK and TextBlob packages to analyze the sentence by sentence sentiment of Obama and Trump's Inauguration Speeches. Using GGPlot, this sentiment was visualized to help analyze the Presidents’ emotion as each speech progressed. This analysis was done in Python. The code can be found [here](https://github.com/madhavthaker/InuagurationComparison/blob/master/Inauguration%20Analysis.ipynb). Here is the final output visualization:
+
+![Image](https://imgur.com/3TGUuzv)
 
 ## Computer Vision
 
