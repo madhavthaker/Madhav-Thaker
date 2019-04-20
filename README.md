@@ -39,15 +39,17 @@ Developed a Convolutional Neural Network to analyze the emotion (7 emotional sta
 
 ### Supervised Learning
 
+
+
 **How well would Messi do in a different league?**
 
-[TBD]
+Developed a negative binomial model to predict the number of goal Lionel Messi would score in a different league. Only leveraged defense as a predictor and plan to incorporate weather and historical record against a specific team. Coded in R and can be found [here](https://github.com/madhavthaker/MessiPredictions/blob/master/Goals%20in%20Other%20Leageus.R). 
 
 ### Unsupervised Learning & EDA
 
 **Exploring NYC Taxi Trip Data**
 
-[TBD]
+Developed a EDA kernel for the "New York City Taxi Trip Duration" kaggle competition. Kernel can be found [here](https://www.kaggle.com/madhavt/yet-another-data-visualization-notebook)
 
 
 
