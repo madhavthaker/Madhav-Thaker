@@ -49,7 +49,7 @@ Developed a negative binomial model to predict the number of goal Lionel Messi w
 
 **Exploring NYC Taxi Trip Data**
 
-Developed a EDA kernel for the "New York City Taxi Trip Duration" kaggle competition. Kernel can be found [here](https://www.kaggle.com/madhavt/yet-another-data-visualization-notebook)
+Developed a EDA kernel for the "New York City Taxi Trip Duration" kaggle competition. Data consisted of start and end coordinates for taxi trips along with their corresponding times. Kernel can be found [here](https://www.kaggle.com/madhavt/yet-another-data-visualization-notebook)
 
 
 
