@@ -4,7 +4,6 @@ This portfolio is a compilation of notebooks which I have built for various pers
 
 Professional projects and accomplishments can be found on my [LinkedIn](https://www.linkedin.com/in/madhavthaker/).
 
-
 ## Natural Langauge Processing 
 
 ### Supervised Learning
@@ -17,7 +16,13 @@ Developed an Automatic Essay Grading tool in Python that utilizes TensorFlow to 
 
 **Comparing Various Extractive Text Summarization Techniques**
 
-[TBD]
+Developed a notebook comparing the approach and results of three extractive text summarization techniques:
+
+1. Sentence scoring based on word frequency
+2. TextRank using Universal Sentence Encoder
+3. Unsupervised Learning using Skip-Thought Vectors
+
+Results showed that approach three did the best job of extracting the key themes within the passage. I've published these findings in a "Towards Data Science" [Medium article](https://towardsdatascience.com/comparing-text-summarization-techniques-d1e2e465584e). The notebook can be found [here.](https://github.com/madhavthaker/text_summarization/blob/master/Text_Summarization.ipynb) 
 
 **Presidential Inauguration Sentiment Comparison**
 
@@ -39,8 +44,6 @@ Developed a Convolutional Neural Network to analyze the emotion (7 emotional sta
 
 ### Supervised Learning
 
-
-
 **How well would Messi do in a different league?**
 
 Developed a negative binomial model to predict the number of goal Lionel Messi would score in a different league. Only leveraged defense as a predictor and plan to incorporate weather and historical record against a specific team. Coded in R and can be found [here](https://github.com/madhavthaker/MessiPredictions/blob/master/Goals%20in%20Other%20Leageus.R). 
@@ -50,6 +53,11 @@ Developed a negative binomial model to predict the number of goal Lionel Messi w
 **Exploring NYC Taxi Trip Data**
 
 Developed a EDA kernel for the "New York City Taxi Trip Duration" kaggle competition. Data consisted of start and end coordinates for taxi trips along with their corresponding times. Kernel can be found [here](https://www.kaggle.com/madhavt/yet-another-data-visualization-notebook)
+
+
+
+
+
 
 
 
