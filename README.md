@@ -13,6 +13,7 @@ Professional projects and accomplishments can be found on my [LinkedIn](https://
 Developed an Automatic Essay Grading tool in Python that utilizes TensorFlow to build a Four-Layer feed-forward neural network. Additionally, by utilizing the Natural Language Tool Kit (NLTK) package, I built a regression model that incorporates features such as grammar and sentiment to grade test essay sets. A Spearman's Correlation of approximately 0.90 was achieved. The code can be found [here.](https://github.com/madhavthaker/AES)
 
 **IMDB Sentiment Analysis**
+
 Leveraged the IDMB Sentiment dataset of 50,000 movie reviews and their corresponding sentiments (1,0) to build a sentiment analysis model. Throughout the process, I compared three vectorization techniques:
 
 1. TF-IDF
