@@ -12,6 +12,15 @@ Professional projects and accomplishments can be found on my [LinkedIn](https://
 
 Developed an Automatic Essay Grading tool in Python that utilizes TensorFlow to build a Four-Layer feed-forward neural network. Additionally, by utilizing the Natural Language Tool Kit (NLTK) package, I built a regression model that incorporates features such as grammar and sentiment to grade test essay sets. A Spearman's Correlation of approximately 0.90 was achieved. The code can be found [here](https://github.com/madhavthaker/AES)
 
+**IMDB Sentiment Analysis**
+Leveraged the IDMB Sentiment dataset of 50,000 movie reviews and their corresponding sentiments (1,0) to build a sentiment analysis model. Throughout the process, I compared three vectorization techniques:
+
+1. TF-IDF
+2. Word2Vec
+3. Universal Sentence Embeddings
+
+The main motive was to compare vectorization techniques so I just used Logistic Regression for my model. Unsurprisingly, we found that the Universal Sentence Embeddings performed the best with an F1 score of #.##. The code can be found [here]().
+
 ### Unsupervised Learning 
 
 **Comparing Various Extractive Text Summarization Techniques**
@@ -32,13 +41,9 @@ Utilized NTLK and TextBlob packages to analyze the sentence by sentence sentimen
 
 ## Computer Vision
 
-### Supervised Learning 
-
 **Emotion Detection**
 
 Developed a Convolutional Neural Network to analyze the emotion (7 emotional states) in a specific greyscale static image. Utilized Tensorflow to construct the Neural Network and visualized its performance and architecture using Tensorboard. The code can be found [here](https://github.com/madhavthaker/EmotionDetection/blob/master/projectscript.py)
-
-### Unsupervised Learning
 
 ## Structured Data
 
@@ -54,7 +59,9 @@ Developed a negative binomial model to predict the number of goal Lionel Messi w
 
 Developed a EDA kernel for the "New York City Taxi Trip Duration" kaggle competition. Data consisted of start and end coordinates for taxi trips along with their corresponding times. Kernel can be found [here](https://www.kaggle.com/madhavt/yet-another-data-visualization-notebook)
 
+**Housing Prices Kaggle Competition**
 
+[TBU]
 
 
 
