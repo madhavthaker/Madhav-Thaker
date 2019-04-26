@@ -59,35 +59,3 @@ Developed a negative binomial model to predict the number of goal Lionel Messi w
 **Exploring NYC Taxi Trip Data**
 
 Developed a EDA kernel for the "New York City Taxi Trip Duration" kaggle competition. Data consisted of start and end coordinates for taxi trips along with their corresponding times. Kernel can be found [here](https://www.kaggle.com/madhavt/yet-another-data-visualization-notebook)
-
-**Housing Prices Kaggle Competition**
-
-[TBU]
-
-
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
